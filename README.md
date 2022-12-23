@@ -21,7 +21,7 @@
 #### Install script on Termux
 ```bash
 rm -rf VENOM
-git clone https://github.com/M3L4NIN-H4CK3R/PRIME
+git clone https://github.com/M3L4NIN-H4CK3R/VENOM
 ```
 #### Run script
 ```bash
