@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  PRIME
+  🐍VENOM🐍
 </h1>
 </div>
 <p align="center">
@@ -20,13 +20,13 @@
 
 #### Install script on Termux
 ```bash
-rm -rf PRIME
+rm -rf VENOM
 git clone https://github.com/M3L4NIN-H4CK3R/PRIME
 ```
 #### Run script
 ```bash
-cd PRIME
-python PRIME.py
+cd VENOM
+python VENOM.py
 ```
 #### MY SOCIAL MEDIA
 
@@ -50,7 +50,7 @@ python PRIME.py
 
 ##### Note:
 This a paid tool only .you only get approved when you pay
-https://wa.me/+2349060816396.
+https://wa.me/+2349150557103.
 
 
 ##### Don't forget to follow my GITHUB profile
