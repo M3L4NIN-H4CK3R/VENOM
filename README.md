@@ -4,7 +4,6 @@
 
 𝑨 𝑽𝒆𝒓𝒚 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑻𝒐𝒐𝒍 𝒇𝒐𝒓 𝑰𝑮 𝑯𝒂𝒄𝒌𝒊𝒏𝒈👽
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D90000&lines=WELCOME+TO+MY+INSTAGRAM+TOOL)](https://git.io/typing-svg)
 
 
 
