@@ -51,7 +51,7 @@ python VENOM.py
 </table>
 
 ##### Note:
-This a paid tool only .you only get approved when you pay
+This a paid tool only you only get approved when you pay
 https://wa.me/+2349150557103.
 
 
