@@ -1,1 +1,1 @@
-Too fast😂
+Fool😂
