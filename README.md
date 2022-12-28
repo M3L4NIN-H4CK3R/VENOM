@@ -41,7 +41,7 @@ python VENOM.py
 <th>DURATION</th>
 </tr>
 <tr>
-<td>7k</td>
+<td>8k</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
