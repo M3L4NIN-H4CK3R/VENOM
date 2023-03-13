@@ -41,11 +41,11 @@ python VENOM.py
 <th>DURATION</th>
 </tr>
 <tr>
-<td>8k</td>
+<td>10k</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
-<td>10K</td>
+<td>15K</td>
 <td>PREMIUM</td>
 </tr>
 </table>
